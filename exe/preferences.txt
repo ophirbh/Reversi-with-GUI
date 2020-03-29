@@ -1,0 +1,4 @@
+firstTurnPlayer: Player1
+player1Color: Black
+player2Color: White
+boardSize: 8X8

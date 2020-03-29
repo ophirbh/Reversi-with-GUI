@@ -1,0 +1,23 @@
+.button {
+    -fx-text-fill: black;
+    -fx-font-weight: bold;
+    -fx-font-family: Garamond;
+}
+
+#welcomeText {
+    -text-fill: black;
+    -fx-font-size: 32px;
+    -fx-font-family: Gabriola;
+}
+
+#preferencesText {
+    -text-fill: black;
+    -fx-font-size: 24px;
+    -fx-font-family: Gabriola;
+}
+
+#copyRightsText {
+    -text-fill: black;
+    -fx-font-size: 14px;
+    -fx-font-family: Gabriola;
+}
